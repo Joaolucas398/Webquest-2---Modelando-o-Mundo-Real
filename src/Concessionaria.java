@@ -1,3 +1,8 @@
+// ## Integrantes
+// - João Lucas de Souza Paz
+// - Alan Mendes Rocha
+// - Wedson Gabriel da Silva
+
 import java.util.ArrayList;
 import java.util.List;
 

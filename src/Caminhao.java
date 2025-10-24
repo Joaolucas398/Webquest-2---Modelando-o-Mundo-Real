@@ -1,3 +1,8 @@
+// ## Integrantes
+// - João Lucas de Souza Paz
+// - Alan Mendes Rocha
+// - Wedson Gabriel da Silva
+
 public class Caminhao extends Veiculo {
     private double capacidadeCarga;
 

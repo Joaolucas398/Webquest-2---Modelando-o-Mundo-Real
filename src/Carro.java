@@ -1,3 +1,7 @@
+// ## Integrantes
+// - João Lucas de Souza Paz
+// - Alan Mendes Rocha
+// - Wedson Gabriel da Silva
 public class Carro extends Veiculo {
     private int numeroPortas;
 

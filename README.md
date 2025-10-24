@@ -1,4 +1,3 @@
-Inclua um arquivo README.md no repositório com:
 # Webquest 2 - Programação II
 Modelando o Mundo Real: Fundamentos da Orientação a Objetos com Java
 
